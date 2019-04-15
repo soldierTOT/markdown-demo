@@ -2,11 +2,7 @@ __Markdown基本语法__
 ====================
 *注：本文档参考<https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet>编写*
 
-Table of Contents
-=================
-
-  * [envirius](#envirius)
-  * [Installation](#installation)
+--------------------
   * [一、标头](##一、标头)  
   * [二、强调重点](##二、强调重点)  
   * [三、列表](##三、列表) 
