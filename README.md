@@ -3,7 +3,7 @@ __Markdown基本语法__
 *注：本文档参考<https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet>编写*
 
 ----------------------
-* [一、标头](##一、标头)  
+* [Header](##Header)  
 * [二、强调重点](##二、强调重点)  
 * [三、列表](##三、列表) 
 * [四、链接](##四、链接) 
@@ -18,7 +18,7 @@ __Markdown基本语法__
 * [十三、TeX数学公式](##十三、TeX数学公式) 
 ----------------------
 
-一、标头
+Header
 --------
 
   ```html
